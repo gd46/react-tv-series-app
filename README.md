@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React TV Series Tutorial
+
+https://www.youtube.com/watch?v=6Ied4aZxUzc
+
+## Api this project is based off of
+
+https://www.tvmaze.com/api
+
 ## Available Scripts
 
 In the project directory, you can run:
